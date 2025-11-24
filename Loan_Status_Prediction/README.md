@@ -1,4 +1,4 @@
-# Loan Status Prediction (End-to-End Data Science Project)
+# Loan Status Prediction 
 
 ## Why This Project Matters
 Loan approval is one of the most critical decisions for financial institutions.
